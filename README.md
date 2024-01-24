@@ -29,6 +29,8 @@ JavaScript Playground is a versatile collection of JavaScript projects covering 
 - **Responsive Navigation Menu**
   - Design a responsive navigation menu that adapts to different screen sizes, focusing on CSS and JavaScript media queries.
 
+-**And Many More**
+
 ## Getting Started
 
 ### Prerequisites
