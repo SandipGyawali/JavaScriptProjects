@@ -1,0 +1,65 @@
+:root {
+  font-family: sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 640px;
+  margin: 0 auto;
+}
+
+.infinite-query-heading {
+  text-align: center;
+  background-color: #333;
+  border-radius: 5px;
+}
+
+.post-wrapper {
+  border-radius: 15px;
+  height: fit-content;
+  width: 600px;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  text-transform: capitalize;
+  text-align: center;
+  margin: 20px 0;
+}
+
+.color-0 {
+  background-color: #ff8080cc;
+}
+
+.color-1 {
+  background-color: #8656c0;
+}
+
+.color-2 {
+  background-color: #86a789;
+}
+
+.color-3 {
+  background-color: #b0a695;
+}
+
+.post-name {
+  font-size: 30px;
+}
+
+.post-body {
+  font-size: 18px;
+}
+
+.post-id {
+  font-size: 20px;
+}
